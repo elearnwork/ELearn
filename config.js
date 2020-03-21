@@ -1,3 +1,3 @@
 module.exports = {
-    dbUrl :"mongodb://localhost:27017/Qasim"
+    dbUrl :`mongodb+srv://shezee:${encodeURIComponent('Shezee123')}@mlab-aglum.mongodb.net/testDB`
 }
